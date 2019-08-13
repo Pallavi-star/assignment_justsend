@@ -1,0 +1,125 @@
+
+body{
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.container{
+	width: 580px;
+	height: 700px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.title{
+	font-size: 80px;
+	color: green;
+	font-family: sans-serif;
+	margin-bottom: 100px;
+}
+
+.links{
+
+	 display: flex;
+	 justify-content: center;
+	 margin-bottom: 40px;
+	 height: 35px;
+	 width: 100%;
+	 padding: 40px;
+}
+
+.start{
+	background-color: #71eeb8;
+}
+
+.read{
+	border-radius: 120px;
+	background-color: skyblue;
+}
+
+a{
+  height: 100px;
+  width:400px;
+  padding-top:20px;
+  font-size: 40px;
+  border-radius: 150px;
+  text-decoration: none;
+}
+
+.main{
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.link{
+	display: flex;
+	justify-content: center;
+	padding: 20px 0 20px 0;
+}
+
+
+input[type="text"],[type="file"],textarea{
+	width: 80%;
+	padding:5px;
+	border:2px solid #36ff;
+}
+
+.btn_read{
+	width: 170px;
+	height: 40px;
+	border-radius: 150px;
+	font-size: 20px;
+	background-color: skyblue;
+}
+
+.btn1{
+	height: 50px;
+	padding-top: 10px;
+	font-size: 20px;
+}
+
+.btn2{
+	width: 100px;
+	background-color: #36ff;
+	padding: 10px;
+	width: 90px;
+}
+
+button{
+	width: 170px;
+	height: 50px;
+	border-radius: 150px;
+	background-color: pink;	
+}
+
+.lable{
+	padding-top: 10px;
+}
+
+.readcode{
+	width: 540px;
+	height: 700px;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+}
+
+.data{
+	 margin-top: 20px;
+	 padding: 10px;
+	 width: 100%;
+	 height:20px; 
+
+}
+
+.read1{
+	border-radius: 120px;
+	height: 50px;
+	width: 180px;
+	background-color: skyblue;
+}
